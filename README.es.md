@@ -1,5 +1,8 @@
 # SmartRecruiters Jobs Scraper — ejemplos
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-smartrecruiters-jobs-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-smartrecruiters-jobs-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Nuevas ofertas de empleo de cualquier sitio de empleo SmartRecruiters desde una fecha o ventana.
 
 El Actor se ejecuta en **tu** cuenta de Apify (token de API u OAuth). El uso se factura a ti, en el plan gratuito o de pago de Apify.
